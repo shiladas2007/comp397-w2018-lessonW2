@@ -1,0 +1,22 @@
+{
+  "name": "comp397-w2018-lessonW2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiladas2007/COMP397-W2018-LessonW2.git"
+  },
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiladas2007/COMP397-W2018-LessonW2/issues"
+  },
+  "homepage": "https://github.com/shiladas2007/COMP397-W2018-LessonW2#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0"
+  }
+}
